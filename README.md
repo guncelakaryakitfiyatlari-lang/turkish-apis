@@ -37,6 +37,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [denizbank](https://api.denizbank.at/) | Denizbank offers developers various banking related accesibilities and applications on this platform.  | OAuth | Yes |
 | [DergiPark](https://dergipark.org.tr/api/public/oai/) | DergiPark is an online platform used for academic and scientific publishing. | apiKey | Yes |
 | [Garanti BBVA](https://developers.garantibbva.com.tr/pages/Home.html) |  API and documentation page for developers of Garanti BBVA, one of the most known banks in Turkey. | OAuth | Yes |
+| [Güncel Akaryakıt Fiyatları](https://guncelakaryakitfiyatlari.com/acik-veri/) | Turkish fuel prices reported to EPDK: daily static JSON/CSV files by province, company and fuel. | None | Yes |
 | [ininal](https://developer.ininal.com/) | ininal is a Turkish virtual card brand and it is a known online banking platform.  | OAuth | Yes |
 | [intertech](https://api.intertech.com.tr/) | APIs provided by a Turkey based technology and software company intertech.  | OAuth | Yes |
 | [İş Bankası](https://developer.isbank.com.tr/Pages/home.aspx) | Largest Turkish private bank.  | OAuth | Yes |
@@ -77,6 +78,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [FedEx](https://www.fedex.com/tr-tr/shipping-tools/direct-integrations/api.html) | FedEx kargo lojistik API'si. | OAuth | Var |
 | [Garanti BBVA](https://developers.garantibbva.com.tr/pages/Home_tr.html) |  Türkiye'nin en bilinen bankalarından Garanti BBVA'nın geliştiricilerine yönelik API ve dokümantasyon sayfası. | OAuth | Yes |
 | [Genel Para](https://api.genelpara.com/) | Finansal piyasa verilerini sunan API. | OAuth | Var |
+| [Güncel Akaryakıt Fiyatları](https://guncelakaryakitfiyatlari.com/acik-veri/) | EPDK akaryakıt fiyatları: 81 il, şirket ve yakıt türüne göre günlük statik JSON/CSV dosyaları. | Yok | Var |
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
 | [HaberApi](https://www.haberapi.com/index) | Premium/Ücretli haber yazılımı sunan API sitesi. | OAuth | Var |
 | [İçerik Bulutu](https://www.icerikbulutu.com/teknolojiler/icerik-bulutu-api) | Bulut tabanlı içerik üretim platformu.  | OAuth | Var |
